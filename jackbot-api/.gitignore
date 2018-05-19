@@ -3,3 +3,6 @@ bin
 
 # ignore obj
 obj
+
+# ignore userfile
+jackbot-api.csproj.user
