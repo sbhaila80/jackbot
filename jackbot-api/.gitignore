@@ -4,5 +4,5 @@ bin
 # ignore obj
 obj
 
-# ignore userfile
+# ignore prj user file
 jackbot-api.csproj.user
